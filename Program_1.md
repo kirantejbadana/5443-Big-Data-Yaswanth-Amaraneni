@@ -13,5 +13,3 @@ out = json.dumps( [ row for row in reader ] )
 print out
 ```
 source : http://ntare16.wordpress.com/2012/01/26/python-code-to-convert-csv-to-json/
-
-I choose CSV file because it has flat data as JSON.
