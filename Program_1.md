@@ -1,6 +1,6 @@
 ### CONVERT CSV TO JSON
 
-I choose python ,why?, because server side files has significant data(in csv format) to render that data(into json format) and which is used by clients.
+I choose python ,why?, because server side files has significant data(in csv format) to render that data(into json format) and which is used by clients and python can easily convert data and tables from spread sheet which is in CSV format to JSON format.
 
 here is sample code...
 ```
